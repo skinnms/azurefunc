@@ -1,5 +1,5 @@
 # imports
-protobuf==3.8.0
+protobuf==3.18.3
 six==1.12.0
 tensorflow-estimator==2.2.0
 azure-functions
